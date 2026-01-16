@@ -26,3 +26,6 @@ override.tf.json
 terraform.rc
 *.zip
 *.log
+*.so
+*.tar.gz
+crash.log
